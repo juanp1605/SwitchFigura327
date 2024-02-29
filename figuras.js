@@ -24,3 +24,4 @@ default:
 alert( "la opcion escogida no es valida")
 break;
 }
+/* codigo para encontrar areas de figuras*/
